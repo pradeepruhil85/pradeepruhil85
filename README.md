@@ -3,6 +3,8 @@
 <!--
 **pradeepruhil85/pradeepruhil85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepruhil85)](https://github.com/pradeepruhil85/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
